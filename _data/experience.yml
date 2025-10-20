@@ -7,7 +7,7 @@
   location: Dallas, TX
   summary: >
     Perform inspection, testing, and troubleshooting of audiovisual systems using circuit analysis, signal processing, and electronic diagnostics. 
-    Support the engineering team in maintaining system reliability and quality control across multiple hardware platforms.|
+    Support the engineering team in maintaining system reliability and quality control across multiple hardware platforms.
     <ul class="resume-item-list">
       <li>Repaired and reassembled internal components such as PCBs and electronic modules, ensuring full system functionality.</li>
       <li>Conducted quality control testing with oscilloscopes and multimeters, documenting results for reliability compliance.</li>
@@ -20,12 +20,24 @@
   location: Orlando, FL
   summary: >
     Supported instruction for over 50 students in the Computer Organization and Design course. Assisted in teaching, mentoring, and providing academic support in assembly programming and MIPS architecture.
-  details: |
     <ul class="resume-item-list">
       <li>Held weekly office hours to clarify complex digital logic and assembly programming concepts.</li>
       <li>Helped create a positive, inclusive environment to improve student engagement and understanding.</li>
       <li>Developed communication and leadership skills by guiding students through technical challenges.</li>
     </ul>
+
+- company: University of Central Florida
+  position: Orientation Production Technician
+  duration: Apr 2024 — Jul 2024
+  location: Orlando, FL
+  summary: >
+    Operated and managed live production equipment for new student Orientation events, ensuring smooth execution and audience engagement.
+    <ul class="resume-item-list">
+      <li>Handled PTZ cameras, ATEM video switchers, lighting boards, and house audio systems during live sessions.</li>
+      <li>Troubleshot technical and logistical issues quickly to maintain smooth event flow.</li>
+      <li>Collaborated with orientation staff to support seamless, professional events for new students.</li>
+    </ul>
+
 
 - company: Manor Hill Productions
   position: Breakout Audio Visual Lead / Manager
@@ -33,7 +45,6 @@
   location: Jacksonville & Dallas-Fort Worth, TX
   summary: >
     Led and managed audiovisual setups for corporate events, ensuring seamless performance and real-time technical support across multiple locations.
-  details: |
     <ul class="resume-item-list">
       <li>Supervised AV technicians and coordinated multi-room corporate breakout sessions.</li>
       <li>Performed live troubleshooting to maintain uninterrupted presentations.</li>
@@ -46,7 +57,6 @@
   location: Bogotá, Colombia
   summary: >
     Analyzed and organized large datasets from multiple sources to provide accurate insights for business decision-making.
-  details: |
     <ul class="resume-item-list">
       <li>Cleaned and processed complex datasets using SQL, Python, R, and Excel.</li>
       <li>Developed dashboards and reports using Tableau, Power BI, and Google Data Studio.</li>
