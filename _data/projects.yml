@@ -1,16 +1,42 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Payload Challenge
+  role: Electrical Lead | SHPE UCF
+  duration: Sep. 2024 — May 2025
+  # url: "#"   # (You can add a link to your project page or GitHub repo here if you want)
+  description: >
+    Led a 10-member engineering team in the SHPE UCF Payload Challenge to design and test a 3U CubeSat payload 
+    for data collection during rocket ascent to 10,000 ft. Oversaw rigorous validation of sensors and microcontrollers, 
+    applied iterative design refinements, and optimized system reliability—achieving a 20% increase in efficiency. 
+    Strengthened skills in embedded systems, data acquisition, and cross-functional teamwork.
+
+- project: Obstacle-Dodging Game on FPGA
+  role: Developer
+  duration: 2023
+  description: >
+    Designed and implemented a plane-dodging game using Verilog and Intel Quartus. 
+    Developed state-machine-based gameplay mechanics, integrated LEDs and button inputs, 
+    and optimized the system for smooth performance on the SharkBoard KCT01 FPGA.
+
+- project: Automated Pet Feeder
+  role: Designer & Programmer
+  duration: 2022
+  description: >
+    Built a fully automated pet feeder using Arduino Uno, servo motors, and custom PCB design in Eagle. 
+    Programmed control logic in C for precise food portioning and display integration, creating a compact and reliable prototype.
+
+- project: Ultrasonic Sensor PCB System
+  role: PCB Designer
+  duration: 2024
+  description: >
+    Designed and fabricated multiple PCBs featuring voltage regulators for 3.3V and 5V output. 
+    Integrated ultrasonic sensors and LED displays to measure object distance in real time, improving system accuracy and stability.
+
+- project: TCP Protocol Data Transfer System
+  role: Developer
+  duration: 2022
+  description: >
+    Developed a data transfer system using Python, TCP sockets, and FTP protocols for efficient client-server communication. 
+    Automated error handling and optimized network performance through Wireshark analysis.
