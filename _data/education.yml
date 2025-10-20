@@ -1,13 +1,14 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Electrical Engineering
+  uni: University of Central Florida
+  year: Dec 2026
+  location: Orlando, FL
+  gpa: 3.5/4.0
+  summary: Completed coursework in electrical engineering with a focus on robotics and hands-on lab experience.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Electrical Engineering
+  uni: Universidad de Los Andes  
+  year: Jun 2022
+  location: Bogotá, Colombia
+  summary: Studied core electrical engineering concepts and fundamentals, gaining international academic experience.
+
