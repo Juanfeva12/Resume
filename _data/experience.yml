@@ -1,19 +1,55 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# WORK EXPERIENCE
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: DVXMedia LLC
+  position: Electrical Engineering Intern
+  duration: Aug 2025 — Present
+  location: Dallas, TX
+  summary: >
+    Perform inspection, testing, and troubleshooting of audiovisual systems using circuit analysis, signal processing, and electronic diagnostics. 
+    Support the engineering team in maintaining system reliability and quality control across multiple hardware platforms.
+  details: |
+    <ul class="resume-item-list">
+      <li>Repaired and reassembled internal components such as PCBs and electronic modules, ensuring full system functionality.</li>
+      <li>Conducted quality control testing with oscilloscopes and multimeters, documenting results for reliability compliance.</li>
+      <li>Developed strong attention to detail and diagnostic precision, skills directly applicable to semiconductor process testing.</li>
+    </ul>
 
+- company: University of Central Florida
+  position: Undergraduate Teaching Assistant – Electrical Engineering
+  duration: Apr 2024 — Jul 2024
+  location: Orlando, FL
+  summary: >
+    Supported instruction for over 50 students in the Computer Organization and Design course. Assisted in teaching, mentoring, and providing academic support in assembly programming and MIPS architecture.
+  details: |
+    <ul class="resume-item-list">
+      <li>Held weekly office hours to clarify complex digital logic and assembly programming concepts.</li>
+      <li>Helped create a positive, inclusive environment to improve student engagement and understanding.</li>
+      <li>Developed communication and leadership skills by guiding students through technical challenges.</li>
+    </ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Manor Hill Productions
+  position: Breakout Audio Visual Lead / Manager
+  duration: Aug 2023 — Present
+  location: Jacksonville & Dallas-Fort Worth, TX
+  summary: >
+    Led and managed audiovisual setups for corporate events, ensuring seamless performance and real-time technical support across multiple locations.
+  details: |
+    <ul class="resume-item-list">
+      <li>Supervised AV technicians and coordinated multi-room corporate breakout sessions.</li>
+      <li>Performed live troubleshooting to maintain uninterrupted presentations.</li>
+      <li>Managed equipment inventory and maintained systems for event readiness.</li>
+    </ul>
+
+- company: Iconopet
+  position: Data Analyst
+  duration: Mar 2022 — Aug 2022
+  location: Bogotá, Colombia
+  summary: >
+    Analyzed and organized large datasets from multiple sources to provide accurate insights for business decision-making.
+  details: |
+    <ul class="resume-item-list">
+      <li>Cleaned and processed complex datasets using SQL, Python, R, and Excel.</li>
+      <li>Developed dashboards and reports using Tableau, Power BI, and Google Data Studio.</li>
+      <li>Collaborated with cross-functional teams to automate data reporting workflows and enhance efficiency.</li>
+    </ul>
