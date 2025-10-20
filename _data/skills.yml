@@ -1,12 +1,20 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# SKILLS & INTERESTS
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Circuit Design & PCB Development
+  description: Experienced with circuit analysis, schematic capture, and PCB design using Eagle, Fusion 360, Altium, and KiCAD. Skilled in soldering, testing, and debugging hardware systems.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Programming & Simulation
+  description: Proficient in Python, C, and MIPS Assembly for embedded systems and control applications. Experienced with MATLAB, Simulink, and SPICE for simulation, modeling, and data analysis.
+
+- skill: Semiconductor & Control Systems
+  description: Knowledgeable in semiconductor devices, control systems design, and signal processing. Passionate about applying engineering principles to microelectronics and fabrication technologies.
+
+- skill: Engineering Tools & Technologies
+  description: Skilled in CAD software (AutoCAD, Fusion 360), FPGA development with Verilog, and electronic instrumentation using oscilloscopes and multimeters.
+
+- skill: Teamwork & Project Leadership
+  description: Strong organizational and communication skills developed through leadership roles in IEEE and SHPE projects. Experienced in team management, mentoring, and technical documentation.
+
+- skill: Personal Interests
+  description: Passionate about PCB design, video game development, volunteering in community projects, volleyball, and travel.
